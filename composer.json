@@ -1,0 +1,17 @@
+{
+    "name": "ahmed-elsadany/cms-setting",
+    "description": "install project setting",
+   
+    "authors": [
+        {
+            "name": "ahmedelsadany",
+            "email": "eng.ahmedelsadany1@gmail.com"
+        }
+    ],
+    "autoload":{
+      "psr-4": {
+            "AhmedElsadany\\CmsSetting\\": "src/"
+        }
+    },
+    "minimum-stability": "beta"
+}
